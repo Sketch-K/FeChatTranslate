@@ -1,2 +1,4 @@
 # FeChatTranslate
-Roblox game  chat translator 
+Roblox FeChatTranslator
+---
+yeah that's it
